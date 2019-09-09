@@ -3,5 +3,6 @@
 /* this line is edited on the a.c file
 
 main (
-printf ("hello);
+printf ("hello");
+printf (world");
 )
